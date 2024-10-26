@@ -1,6 +1,6 @@
 /**
  *
- * index.js
+ * index.j
  * This is the entry file for the application
  */
 
